@@ -53,7 +53,7 @@ source venv/bin/activate    # On Windows: venv\Scripts\activate
 
 Run the Spine script:
 ```
-python list_files.py
+python3 parse.py
 ```
 The script will list all your Google Drive files, and it will display them with blue text if they are shared with you and green text if you are sharing them with others.
 
