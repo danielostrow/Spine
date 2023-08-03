@@ -55,7 +55,7 @@ Run the Spine script:
 ```
 python3 parse.py
 ```
-The script will list all your Google Drive files, and it will display them with blue text if they are shared with you and green text if you are sharing them with others.
+The script will list all your Google Drive files, and display if they are shared with you or you are sharing them with others.
 
 The script will also show the list of users with whom each file is shared, organized by permissions (editor, viewer).
 
