@@ -8,7 +8,7 @@ To get started with Spine, follow these steps:
 
 * Clone this project to a new directory on your local machine:
 ```
-git clone https://github.com/your-username/spine.git
+git clone https://github.com/danielostrow/spine.git
 cd spine
 ```
 
